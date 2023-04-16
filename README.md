@@ -62,7 +62,7 @@ docker-compose exec web python manage.py loaddata fixtures.json
 
 __________________________________
 
-Ваш проект запустился на http://158.160.40.250/
+Ваш проект запустился на http://yamdb.stanislavsemenov.ru/
 
 Полная документация доступна по адресу http://158.160.40.250/redoc/
 
