@@ -8,7 +8,7 @@ services:
     env_file:
       - ./.env
   web:
-    image: asternem/api_yamdb-web:v1
+    image: asternem/api_yamdb:latest
     restart: always
     volumes:
       - static_value:/app/static/
