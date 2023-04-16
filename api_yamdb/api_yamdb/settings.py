@@ -14,7 +14,7 @@ SECRET_KEY = str(os.getenv('TOKEN'))
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['158.160.40.250']
+ALLOWED_HOSTS = ['158.160.40.250', 'yamdb.stanislavsemenov.ru']
 
 
 # Application definition
